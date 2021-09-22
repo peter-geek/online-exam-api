@@ -23,4 +23,5 @@ class DB {
 		con.query(sql, params);
 	}
 }
+
 module.exports = DB;
